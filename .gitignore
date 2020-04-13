@@ -7,5 +7,4 @@ export_presets.cfg
 
 # Mono-specific ignores
 .mono/
-*.import
 data_*/
